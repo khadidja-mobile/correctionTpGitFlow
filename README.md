@@ -1,2 +1,2 @@
-# Learn Git Flow Suite
-Version : 0.0.2
+# Learn Git Flow Suite 3
+Version : 0.0.3
